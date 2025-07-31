@@ -1,0 +1,3 @@
+- `customer_churn.ipynb`: Main notebook with data processing, analysis, and model training.
+- `data.csv`: The dataset used for training and testing.
+- `report.pdf`: Summary report of the results.
